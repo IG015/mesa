@@ -1,4 +1,4 @@
-# Receita de Puré de Batata
+# Receita de Biscoitos
 
 ## Ingredientes
 - 4 batatas médias
