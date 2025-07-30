@@ -1,4 +1,4 @@
-# Receita de Biscoitos
+# Receita de Bolachas de manteiga
 
 ## Ingredientes
 - Chavena de amido de milho (maizena)
