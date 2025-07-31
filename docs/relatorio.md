@@ -1,32 +1,56 @@
+Git
+
 # Relatório Final - Página Colaborativa de Receitas
 
 ## Integrantes do Grupo
-- Nome do projeto:
-- Integrantes:
-- Repositório: [link]
+- Nome do projeto: Receitas
+- Integrantes: Gabriel Vasconcelos, Iago Rodrigues, Davi Santos, Luis Gomes, Gabriel Garcia
+- Repositório: [https://github.com/IG015/estrogonofe](https://github.com/IG015/estrogonofe)
 
 ## Branches Criadas
-- Descreva as branches criadas e o objetivo de cada uma.
-- Informe como os merges foram realizados (com PR? Revisão?).
+- `main`: branch principal onde as receitas finais são integradas.
+- `feature/estrogonofe`: criada pelo Iago para adicionar a receita de estrogonofe.
+- `feature/pure-batata`: criada por Gabriel Garcia para adicionar a receita de puré de batata (pendente de push por falta de permissões no repositório).
 
-## Histórico de Commits
-- Exemplo de boas mensagens de commit.
-- Print ou link do gráfico de contribuições.
+Os merges foram feitos através de Pull Requests, com revisão entre os membros do grupo.
+
+## Histórico de Commits  
+- Mensagens de commit utilizadas:
+  - `Adicionada receita de estrogonofe`
+  - `Adicionada receita de puré de batata` (commit local de Gabriel Garcia)
+
+Gráfico de contribuições pode ser visualizado em:  
+[Insights > Contributors](https://github.com/IG015/estrogonofe/graphs/contributors)
 
 ## Issues Criadas
-Liste as issues criadas e quem ficou responsável por cada uma.
+- #1 Criar receita do arroz – Iago Rodrigues
+- #2 Criar receita de puré de batata – Gabriel Garcia
+- #3 Criar receita de estrogonofe - Davi Santos
+- #4 Criar receita completa - Luis Gomes
+- Outras issues a serem criadas conforme progresso do projeto
 
 ## Pull Requests
-Descreva o processo de revisão e merges realizados.
+- PR da receita de estrogonofe foi criado e revisto pelos colegas.
+- PR da receita de puré de batata será criado assim que o colaborador Gabriel Garcia for adicionado ao repositório.
 
 ## Conflitos e Resoluções
-Explique se houve conflitos e como foram resolvidos.
+- Até o momento, não ocorreram conflitos.  
+- Espera-se que possíveis conflitos futuros sejam resolvidos durante os merges e revisões via Pull Requests.
 
 ## Dificuldades Enfrentadas
-Dúvidas ou problemas que surgiram.
+- Gabriel Garcia enfrentou dificuldades por falta de permissão para dar `push` no repositório.
+- Aprendizagem inicial sobre criação de branches, uso de `git clone`, `add`, `commit` e `push`.
+- Alguns membros estavam a adaptar-se à utilização de Pull Requests e Issues.
 
 ## Principais Comandos Git Utilizados
-Liste e comente comandos importantes usados no projeto.
+- `git clone`: clonar o repositório do GitHub
+- `git checkout -b nome-da-branch`: criar e mudar para nova branch
+- `git add .`: preparar ficheiros para commit
+- `git commit -m "mensagem"`: criar um commit
+- `git push origin nome-da-branch`: enviar a branch para o GitHub
+- `git pull`: sincronizar alterações
+- `git merge`: combinar branches
+- `git log`: ver histórico de commits
 
 ## Conclusão
-Aprendizados principais do grupo com a atividade.
+O grupo aprendeu a utilizar o GitHub de forma colaborativa, criando branches, pull requests e trabalhando em equipa para manter o projeto organizado. A atividade foi útil para entender o fluxo de trabalho real de desenvolvimento de software em grupo e a importância da comunicação entre os membros.
